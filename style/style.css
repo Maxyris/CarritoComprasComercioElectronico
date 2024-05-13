@@ -38,7 +38,6 @@ header h2{
     padding: 20px;
     border-radius: 20px;
     height:50vh;
-    /* background-color: rgba(0,55,0,255); */
     background-color: #fff5f5;
     border: 1px solid #53ddff;
     width: 100vw;
@@ -65,7 +64,6 @@ header h2{
     height: 89vh;
     right: 0;
     top: 2.5rem;
-    /* background: url(../images/fondoMaincra6.jpg); */
     background-color: black;
     background: rgb(255 255 255 / 84%);
     border-left: 2px solid #efefef;
@@ -89,7 +87,6 @@ header h2{
 }
 .img {
     width: 80%;
-    /* height: 80%; */
     border-radius: 50%;
     box-shadow: 0 0 20px #17afeb;
 }
